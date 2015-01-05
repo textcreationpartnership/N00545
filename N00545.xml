@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <body>
          <div type="list_of_fees">
-            <pb facs="tcp:000673_0000_0FA99F5749B507F8"/>
-            <pb facs="tcp:000673_0001_0FA99F57AC152BE8"/>
+            <pb facs="unknown:000673_0000_0FA99F5749B507F8"/>
+            <pb facs="unknown:000673_0001_0FA99F57AC152BE8"/>
             <head>A Catalogue of Fees Established by the Governour and Council At the Humble Request of the ASSEMBLY</head>
             <div type="part">
                <head>For the Governour.</head>
@@ -212,7 +212,7 @@
                </p>
             </div>
             <div type="part">
-               <pb facs="tcp:000673_0002_0FA99F586CA52360"/>
+               <pb facs="unknown:000673_0002_0FA99F586CA52360"/>
                <head>The Secretary's FEES.</head>
                <p>
                   <table>
@@ -409,7 +409,7 @@
                </p>
             </div>
             <div type="part">
-               <pb n="3" facs="tcp:000673_0003_0FA99F592DDF31D0"/>
+               <pb n="3" facs="unknown:000673_0003_0FA99F592DDF31D0"/>
                <head>Fees for the Court of 40 <hi>s.</hi> or under.</head>
                <p>
                   <table>
@@ -603,7 +603,7 @@
                         <cell>1</cell>
                         <cell>0</cell>
                      </row>
-                     <pb n="4" facs="tcp:000673_0004_0FA99F59EE0D8D00"/>
+                     <pb n="4" facs="unknown:000673_0004_0FA99F59EE0D8D00"/>
                      <row>
                         <cell>FOR Every Subpoena,</cell>
                         <cell>
@@ -820,7 +820,7 @@
                </p>
             </div>
             <div type="part">
-               <pb n="5" facs="tcp:000673_0005_0FA99F5AAEB0BE58"/>
+               <pb n="5" facs="unknown:000673_0005_0FA99F5AAEB0BE58"/>
                <head>Council and Attorneys Fees</head>
                <p>
                   <table>
@@ -1105,7 +1105,7 @@
                </p>
             </div>
             <div type="part">
-               <pb n="6" facs="tcp:000673_0006_0FA99F5B96469F18"/>
+               <pb n="6" facs="unknown:000673_0006_0FA99F5B96469F18"/>
                <head>The Sheriffs Fees for the Supream <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap>
@@ -1345,7 +1345,7 @@
                         <cell>0</cell>
                         <cell>6</cell>
                      </row>
-                     <pb n="7" facs="tcp:000673_0007_0FA99F5C2E4A6B08"/>
+                     <pb n="7" facs="unknown:000673_0007_0FA99F5C2E4A6B08"/>
                      <row>
                         <cell> </cell>
                         <cell>
@@ -1560,7 +1560,7 @@
          </div>
          <div type="list_of_fees">
             <pb n="8"
-                facs="tcp:000673_0008_0FA99F5CEB9BAA70"
+                facs="unknown:000673_0008_0FA99F5CEB9BAA70"
                 rendition="simple:additions"/>
             <head>Fees to be Received in the Custom-House By their Majesties Collector and Receiver General of the Province of <hi>New-York.</hi>
             </head>
@@ -1733,7 +1733,7 @@
                </p>
             </div>
             <div type="part">
-               <pb n="9" facs="tcp:000673_0009_0FA99F5DB27F3730"/>
+               <pb n="9" facs="unknown:000673_0009_0FA99F5DB27F3730"/>
                <head>Sloops or Vessels of 20 Tuns, or under, coming or going out of this Province.</head>
                <p>
                   <table>
@@ -1866,7 +1866,7 @@
                <p>Provided alwayes, That no other Fees shall be taken for or concerning the Naval Office, Tonnage, or the enumerated Com<g ref="char:EOLhyphen"/>modities, or any other thing which relates to Shipping, upon any pretence whatsoever</p>
             </div>
             <div type="part">
-               <pb n="10" facs="tcp:000673_0010_0FA99F5E710875B0"/>
+               <pb n="10" facs="unknown:000673_0010_0FA99F5E710875B0"/>
                <head>Clark of the Assemb<gap reason="illegible: indecipherable" extent="3 letters">
                      <desc>•••</desc>
                   </gap>
@@ -2070,7 +2070,7 @@
                         <cell>3</cell>
                         <cell>0</cell>
                      </row>
-                     <pb n="11" facs="tcp:000673_0011_0FA99F5F2D8ACC58"/>
+                     <pb n="11" facs="unknown:000673_0011_0FA99F5F2D8ACC58"/>
                      <row>
                         <cell>FOR Every <gap reason="illegible: indecipherable" extent="1 span">
                               <desc>〈…〉</desc>
